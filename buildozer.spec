@@ -7,7 +7,7 @@ source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
 
 # ICI : On force l'utilisation stricte de python3==3.10.11
-requirements = python3==3.10.11,kivy,urllib3,openssl
+requirements = python3,kivy,urllib3,openssl
 
 orientation = portrait
 fullscreen = 1
